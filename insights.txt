@@ -1,0 +1,5 @@
+1. Top customers vary by region, indicating localized buying behavior.
+
+2. Monthly sales generally trend upward with noticeable year-end spikes.
+
+3. Technology products dominate top rankings across multiple categories.
